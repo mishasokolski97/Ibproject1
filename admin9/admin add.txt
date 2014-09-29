@@ -1,0 +1,11 @@
+
+
+
+create a FORM that 
+* creates new types of categories
+*  states the 'parent' category
+
+use PHP to ensure that
+
+* a unique category
+* echoes category andd parent back to user

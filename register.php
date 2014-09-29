@@ -1,7 +1,5 @@
 <?php
-require_once( 'file:///C|/Users/Misha/Desktop/UniServerZ/www/_archive/6.6.2014/incl/config.php');
-require_once( 'file:///C|/Users/Misha/Desktop/UniServerZ/www/_archive/6.6.2014/incl/Database.class.php');
-require_once( 'file:///C|/Users/Misha/Desktop/UniServerZ/www/_archive/6.6.2014/incl/UserManager.class.inc');
+
 
 $output='';
 $error_msg='';
@@ -91,7 +89,7 @@ else if ( strlen ( $error_msg) > 0)
     </form>
     
     
-                                <a href="localhost/login.php" class="btn btn-default btn-lg"><i class="fa fa-login fa-fw"></i> <span class="network-name">Already have an account? Log in.</span></a>
+                                <a href="https://localhost/login.php" class="btn btn-default btn-lg"><i class="fa fa-login fa-fw"></i> <span class="network-name">Already have an account? Log in.</span></a>
                             
  
 
